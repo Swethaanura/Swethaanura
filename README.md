@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm E SWETHA</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-
-<h3 align="left">Connect with me:swethae65@gmail.com</h3>
+<h1>Reach me @swethae65@gmail.com
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swetha anura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha anura" height="30" width="40" /></a>
 <a href="https://instagram.com/swetha_anura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swetha_anura" height="30" width="40" /></a>
